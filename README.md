@@ -69,7 +69,7 @@ Check out our **interactive Tableau dashboard** for a deep dive into the experim
 ## How to Run the Analysis
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/vanguard-digital-experiment.git](https://github.com/estebanba/second-project-eda-inf-stats
+   git clone https://github.com/estebanba/second-project-eda-inf-stats
    cd vanguard-digital-experiment
    ```
 2. Install required dependencies:
