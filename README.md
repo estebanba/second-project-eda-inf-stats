@@ -82,6 +82,10 @@ Check out our **interactive Tableau dashboard** for a deep dive into the experim
    ```
 4. Open the Tableau dashboard to explore visualizations.
 
+## Presentation link 
+
+https://docs.google.com/presentation/d/1hEOpsVXgPf42R0eSq3708uOtM84t6VEFCXYhEfr204w/edit?usp=sharing
+
 ## Contributions
 Feel free to contribute by submitting issues, feature requests, or pull requests.
 
